@@ -4,7 +4,8 @@
 
 ## 🔭 工作
 
-- 🌐 当前工作地：北京 。岗位：系统开发工程师
+- 🌐 工作地：北京
+- 🔧 岗位：系统开发工程师
 - 🚀 一枚想要成为大牛的菜鸡。
 
 ## 🌱 技能
@@ -17,12 +18,14 @@
 
 ## ⚡ 个人爱好
 
-- 算法菜鸡：又菜又爱玩，`leetcode` 每日一题爱好者，不定时参加 `leetcode` 周赛和`codeforces` 比赛。
+- <img src="https://typra-pictures.oss-cn-beijing.aliyuncs.com/imgs/907871.jpg" alt="907871" style="zoom:8%;" />  算法菜鸡：又菜又爱玩，`leetcode` 每日一题爱好者，不定时参加 `leetcode` 周赛和`codeforces` 比赛。
 	- [leetcoder](https://leetcode.cn/u/geeker-smallwhite/)
 
 - 📚 阅读技术书籍，了解最新的技术趋势和发展，不定时产出技术文档， `csapp` 的每日一读活动参与者。
 
 ## 📫 Contact Me
+
+
 
 - 📧 个人邮箱：Mandelgiegie@gmail.com
 
