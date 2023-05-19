@@ -11,10 +11,10 @@
 ## 🌱 技能
 
 - 前端相关：`javascript/typescript` 、`vue` 、`react` 
-- 后端相关：`golang`、`java`、`redis`、`redis`、`postgresql`
-- 系统相关：`linux` 、`bash/shell`、`vim`、`http`
-- 容器相关： `linux container`、 `docker ` 、 `k8s(kubernetes)`
-- 编译相关：`bazel`、`ninja build`、`cmake`
+- 后端相关：`golang`、`java`、`redis`、`mysql`、`postgresql`、`grpc`
+- 系统相关：`linux` 、`bash/shell`、`vim`、`http`、`nginx`
+- 容器相关： `linux container`、 `docker ` 、 `k8s(kubernetes)`、`helm`、`artifactory`、`istio`
+- 编译相关：`bazel`、`ninja build`、`cmake`、`webpack`
 
 ## ⚡ 个人爱好
 
@@ -25,9 +25,7 @@
 
 ## 📫 Contact Me
 
-
-
-- 📧 个人邮箱：Mandelgiegie@gmail.com
+- 📧 个人邮箱：mandelgiegie@gmail.com
 
 ---
 感谢您的关注！请随时查看我的仓库，了解我正在从事的项目。祝您一切顺利！
