@@ -2,7 +2,7 @@
 
 欢迎来到我的 GitHub 主页！
 
-![image-20230608222747224](https://typra-pictures.oss-cn-beijing.aliyuncs.com/imgs/image-20230608222747224.png)
+![image-20230608222747224](./images/image-20230608222747224.png)
 
 ## 🔭 工作
 
