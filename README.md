@@ -2,6 +2,8 @@
 
 欢迎来到我的 GitHub 主页！
 
+![image-20230608222522689](https://typra-pictures.oss-cn-beijing.aliyuncs.com/imgs/image-20230608222522689.png)
+
 ## 🔭 工作
 
 - 🌐 工作地：北京
