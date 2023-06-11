@@ -12,15 +12,15 @@
 
 ## 🌱 技能
 
-- 前端相关：`javascript/typescript` 、`vue` 、`react` 
+- 前端相关：`javascript/typescript` 、`vue` 、`react` 、`node`
 - 后端相关：`golang`、`java`、`redis`、`mysql`、`postgresql`、`grpc`
-- 系统相关：`linux` 、`bash/shell`、`vim`、`http`、`nginx`
+- 系统相关：`linux` 、`bash/shell`、`vim`、`http`、`nginx`、`python`
 - 容器相关： `linux container`、 `docker ` 、 `k8s(kubernetes)`、`helm`、`artifactory`、`istio`
 - 编译相关：`bazel`、`ninja build`、`cmake`、`webpack`
 
 ## ⚡ 个人爱好
 
--  💭💡🎈 算法菜鸡：又菜又爱玩，`leetcode` 每日一题爱好者，不定时参加 `leetcode` 周赛和`codeforces` 比赛。
+-  💡 算法菜鸡：又菜又爱玩，`leetcode` 每日一题爱好者，不定时参加 `leetcode` 周赛和`codeforces` 比赛。
 	- [leetcoder](https://leetcode.cn/u/geeker-smallwhite/)
 
 - 📚 阅读技术书籍，了解最新的技术趋势和发展，不定时产出技术文档， `csapp` 的每日一读活动参与者。
