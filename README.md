@@ -2,7 +2,7 @@
 
 欢迎来到我的 GitHub 主页！
 
-![pawel-nolbert-62OK9xwVA0c-unsplash](./imgs/pawel-nolbert-62OK9xwVA0c-unsplash.jpg)
+![pawel-nolbert-62OK9xwVA0c-unsplash](./images/pawel-nolbert-62OK9xwVA0c-unsplash.jpg)
 
 ## 🔭 工作
 
