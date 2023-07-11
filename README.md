@@ -2,7 +2,7 @@
 
 欢迎来到我的 GitHub 主页！
 
-![dave-adamson-zCUSpyKc8v0-unsplash](https://typra-pictures.oss-cn-beijing.aliyuncs.com/imgs/dave-adamson-zCUSpyKc8v0-unsplash.jpg)
+![pawel-nolbert-62OK9xwVA0c-unsplash](https://typra-pictures.oss-cn-beijing.aliyuncs.com/imgs/pawel-nolbert-62OK9xwVA0c-unsplash.jpg)
 
 ## 🔭 工作
 
