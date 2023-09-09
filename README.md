@@ -17,6 +17,7 @@
 - 系统相关：`linux` 、`bash/shell`、`vim`、`http`、`nginx`、`python`
 - 容器相关： `linux container`、 `docker ` 、 `k8s(kubernetes)`、`helm`、`artifactory`、`istio`
 - 编译相关：`bazel`、`ninja build`、`cmake`、`webpack`
+- 大数据相关：`flink`、`starrocks`、`kafka`
 
 ## ⚡ 个人爱好
 
